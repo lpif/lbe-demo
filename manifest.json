@@ -7,21 +7,21 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "android-icon-48x48.png",
+      "src": "/lbe-demo/android-icon-48x48.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "android-icon-96x96.png",
+      "src": "/lbe-demo/android-icon-96x96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "android-icon-192x192.png",
+      "src": "/lbe-demo/android-icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
   ],
-  "scope": "/",
-  "start_url": "/index.html"
+  "scope": "/lbe-demo",
+  "start_url": "/lbe-demo/index.html"
 }

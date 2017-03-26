@@ -1,8 +1,8 @@
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
-  '/',
-  '/style.css',
-  '/bootstrap/css/bootstrap.min.css'
+  '/lbe-demo/',
+  '/lbe-demo/style.css',
+  '/lbe-demo/bootstrap/css/bootstrap.min.css'
 ];
 
 self.addEventListener('install', function(event) {
